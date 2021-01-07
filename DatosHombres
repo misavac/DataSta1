@@ -4,7 +4,7 @@
 #Peso en Kg
 #calif de Curso de Probabilidad
 
-Edad_H	Estatura_H	Sexo_H	Peso_H	calificación_H
+Edad_H	Estatura_H	Sexo_H	Peso_H	calificacion_H
 23	1.7	Hombre	87	5
 26	1.69	Hombre	87	8
 23	1.73	Hombre	79	6
