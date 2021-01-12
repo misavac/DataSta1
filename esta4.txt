@@ -1,10 +1,10 @@
-#Edad en años
-#Estatura en m
+#Edad 
+#Estatura 
+#Peso 
+#calificación
 #sexo
-#Peso en Kg
-#calif de Curso de Probabilidad
 
-Edad	Estatu	Sexo	Peso	cali
+Edad	Estatura	Sexo	Peso	calificacion
 23	1.7	Hombre	87	5
 19	1.63	Mujer	65	7
 24	1.65	Mujer	68	6
